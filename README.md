@@ -16,10 +16,10 @@ Experiments conducted for CNP45-ABHD14B are identified as follows:
 ## ELN Pages
 Each issue represents one experiment which are then sorted into *open* and *closed*. An *open* issue represents an experiment that is being planned or that is currently being run, while a *closed* issue represents a completed experiment. 
 
-Issues will also be tagged with labels describing the aim and status of each experiment, descriptions of which can be found in the relevant [tab]().
+Issues will also be tagged with labels describing the aim and status of each experiment, descriptions of which can be found in the relevant [tab](https://github.com/Tom-QR/ELN-Thomas-Rees/labels).
 
 ---
 ## Data
-
+All raw and processed data can be found within the relevent wiki page, [Compound ID]
 
     
