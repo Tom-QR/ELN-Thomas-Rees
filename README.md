@@ -5,7 +5,7 @@ This ELN contains experiments conducted for the [SGC Open Chemistry Network](htt
 
 ---
 ## Experimental Identifiers
-Experiments conducted for CNP45-ABHD14B are identified as follows
+Experiments conducted for CNP45-ABHD14B are identified as follows:
 1. First three characters are TIR (initials of the experimentalist)
 2. Underscore
 3. Three numbers which are the main identifier of the molecule
