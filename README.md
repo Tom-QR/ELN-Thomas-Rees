@@ -7,10 +7,10 @@ This ELN contains experiments conducted for the [SGC Open Chemistry Network](htt
 ## Experimental Identifiers
 Experiments conducted for CNP45-ABHD14B are identified as follows:
 1. First three characters are TIR (initials of the experimentalist)
-2. Underscore
-3. Three numbers which are the main identifier of the molecule
-4. Underscore
-5. Two numbers which describe the repeat/batch number
+2. Hyphen
+3. A number as the main identifier of the molecule
+4. Hyphen
+5. A number which describes the repeat/batch number
 
 ---
 ## ELN Pages
